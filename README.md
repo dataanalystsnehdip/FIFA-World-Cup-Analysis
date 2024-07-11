@@ -20,7 +20,7 @@ To get started with this project, clone the repository and follow the instructio
 
 bash
 Copy code
-git clone https://github.com/yourusername/FIFA-World-Cup-Analysis.git
+git clone [https://github.com/yourusername/FIFA-World-Cup-Analysis.git](https://github.com/dataanalystsnehdip/FIFA-World-Cup-Analysis/blob/main/README.md)
 cd FIFA-World-Cup-Analysis
 Contributions
 We welcome contributions from the community! If you have any suggestions, improvements, or new features to add, please feel free to fork the repository, make your changes, and submit a pull request.
